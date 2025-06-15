@@ -1,4 +1,4 @@
-let API_KEY = `6d2b5c2cefd191d30c92fb36bb958af2`;
+let API_KEY = `api_key`;
 let API_URL = `https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid=${API_KEY}`; 
 const input = document.getElementById('input');
  let search = document.getElementById('search');
